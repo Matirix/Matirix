@@ -7,5 +7,5 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Talk to me about books, anime, hikes!</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/matthew-puyat-112318195/" rel="nofollow">https://www.linkedin.com/in/matthew-puyat-112318195/</a></li>
 </ul>
-(https://github-readme-stats.vercel.app/api?username=Matirix&theme=highcontrast&show_icons=true&count_private=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Matirix&layout=compact)
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)(https://github-)
