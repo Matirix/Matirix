@@ -9,6 +9,8 @@
 </ul>
 ##Statistics
 <br>
-[![Matirix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matirix)](https://github.com/Matirix/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Matirix&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 
