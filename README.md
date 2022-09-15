@@ -9,4 +9,6 @@
 </ul>
 ##Statistics
 <br>
+[![Matirix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matirix)](https://github.com/Matirix/github-readme-stats)
+
 
