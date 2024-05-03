@@ -8,11 +8,11 @@
 
 🪑 During my academic years, I was the Downtown Chair for the BCIT Student Association, where I led mental health initiatives and advocated for the Downtown Students!
 
-🏆 One of my biggest accomplishments were winning the 2023 YVR Hackathon and becoming the Winter 2024 Valedictorian!
+🏆 One of my biggest accomplishments were winning the <a href="https://www.linkedin.com/posts/matthew-puyat_yvr-inaugural-student-hackathon-activity-7062588375278505984-0LeE?utm_source=share&utm_medium=member_desktop" rel="nofollow">YVR 2023 Hackathon</a> and becoming the<a href="[https://www.linkedin.com/in/matthew-puyat-112318195/](https://www.linkedin.com/posts/bcitcomputing_we-had-such-a-wonderful-convocation-yesterday-ugcPost-7171619283800612864-yZ8y?utm_source=share&utm_medium=member_desktop)" rel="nofollow">Winter 2024 Valedictorian</a>
 
 🏋️‍♂️ Outside of professional activities, I'm an avid reader of both non-fic and fiction! I like to maintain an active lifestyle with outdoor hikes and plain ol' gyming. 
 
-✉️ Feel free to check out my LinkedIn: <a href="https://www.linkedin.com/in/matthew-puyat-112318195/" rel="nofollow">https://www.linkedin.com/in/matthew-puyat-112318195/</a>
+✉️ Feel free to check out my LinkedIn <a href="https://www.linkedin.com/in/matthew-puyat-112318195/" rel="nofollow">here</a>
 
 ## 🛠️ Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
