@@ -45,11 +45,14 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0095D5?&style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🥅 Other
+## ＋ Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0095D5?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Github Stats
+![](https://komarev.com/ghpvc/?username=matirix)
 
 
 
